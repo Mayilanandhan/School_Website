@@ -51,4 +51,4 @@ An overview of a school website typically includes various key sections and feat
    - **School Policies:** Information on school rules, dress codes, discipline policies, and other guidelines.
    - **Frequently Asked Questions (FAQs):** Answers to common questions parents and students may have.
 
-T
+The design of the website typically focuses on being user-friendly, with easy navigation and access to important information. Depending on the school, some websites might also include an events calendar, teacher pages, or a section dedicated to alumni.

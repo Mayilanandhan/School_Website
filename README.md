@@ -1,4 +1,4 @@
-# School_Website
+# School_Website v1
 
 An overview of a school website typically includes various key sections and features designed to provide information to students, parents, staff, and visitors. Here’s a general breakdown of the sections you might find on a school website:
 

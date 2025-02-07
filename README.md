@@ -52,3 +52,6 @@ An overview of a school website typically includes various key sections and feat
    - **Frequently Asked Questions (FAQs):** Answers to common questions parents and students may have.
 
 The design of the website typically focuses on being user-friendly, with easy navigation and access to important information. Depending on the school, some websites might also include an events calendar, teacher pages, or a section dedicated to alumni.
+
+## image
+![image](C:\Users\ADMIN\Pictures\Screenshots\Workflow chart)
